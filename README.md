@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyunk's%20GitHub!&fontSize=80" />	
 </div>
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Tools 🛠</p>
 </div>
+<br>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -54,7 +56,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/codepen-000000?style=flat&logo=codepen&logoColor=white">
 </div>
 <br>
 <div align=center>
@@ -69,6 +72,8 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div>
+<br>
+<br>
 <div align=center>
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunk07&layout=compact)
@@ -76,7 +81,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunk07) -->
 </div>
     
-<div align=center>
+<div align=right>
  Bye  👋
 </div>
     
