@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyunk07's&GitHub!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyunk's%20GitHub!&fontSize=80" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
